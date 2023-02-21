@@ -42,7 +42,8 @@ workflowSchedule:
 
 commitMessages:
   commitAuthorName: "Seungjin Kim"
-
+  commitAuthorEmail: "k4tmm61t@duck.com"
+  
 #runner: "[self-hosted, linux, ARM64]"
       
 # Upptime also supports notifications, assigning issues, and more
