@@ -36,8 +36,8 @@ workflowSchedule:
   responseTime: "50 * * * *"
   staticSite: "50 * * * *"
   summary: "50 * * * *"
-  updateTemplate: "* 0 * * *"
-  updates: "0 3 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "15 0 * * *"
   uptime: "*/5 * * * *"
 
 commitMessages:
