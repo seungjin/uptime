@@ -37,4 +37,4 @@ jobs:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
           user_name: "Seungjin Kim"
-          user_email: "73812536+upptime-bot@users.noreply.github.com"
+          user_email: "k4tmm61t@duck.com"
