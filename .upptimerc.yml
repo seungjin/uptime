@@ -1,0 +1,49 @@
+# Change these first
+owner: seungjin # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
+user-agent: seungjin
+
+sites:
+  - name: seungjin.net
+    url: https://seungjin.net
+  - name: www.seungjin.net
+    url: https://www.seungjin.net
+  - name: mastodon (mstd.seungjin.net)
+    url: https://mstd.seungjin.net
+  - name: uptime (uptime.seungjin.net)
+    url: https://uptime.seungjin.net
+
+assignees: 
+  - seungjin
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: uptime.seungjin.net
+  # baseUrl: /your-repo-name
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Upptime
+  introTitle: "Uptime for **seungjin.net**'s public services"
+  introMessage: Based on [Upptime](https://github.com/upptime/upptime) - Open-source uptime monitor and status page, powered entirely by GitHub Actions, Issues, and Pages. 
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+workflowSchedule:
+  graphs: "50 * * * *"
+  responseTime: "50 * * * *"
+  staticSite: "50 * * * *"
+  summary: "50 * * * *"
+  updateTemplate: "* 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
+commitMessages:
+  commitAuthorName: "Seungjin Kim"
+
+#runner: "[self-hosted, linux, ARM64]"
+      
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
