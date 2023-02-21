@@ -32,10 +32,10 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
-  graphs: "50 * * * *"
-  responseTime: "50 * * * *"
-  staticSite: "50 * * * *"
-  summary: "50 * * * *"
+  graphs: "50 */6 * * *"
+  responseTime: "50 */6 * * *"
+  staticSite: "50 */6 * * *"
+  summary: "50 */6 * * *"
   updateTemplate: "0 0 * * *"
   updates: "15 0 * * *"
   uptime: "*/5 * * * *"
