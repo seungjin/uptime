@@ -1,7 +1,7 @@
 url: https://www.seungjin.net
-status: up
-code: 200
-responseTime: 968
-lastUpdated: 2023-06-18T13:00:58.316Z
+status: down
+code: 500
+responseTime: 10575
+lastUpdated: 2023-06-18T15:11:57.566Z
 startTime: Mon Feb 20 2023 03:56:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
