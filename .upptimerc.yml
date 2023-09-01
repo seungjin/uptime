@@ -10,6 +10,8 @@ sites:
     url: https://www.seungjin.net
   - name: mastodon (mstd.seungjin.net)
     url: https://mstd.seungjin.net
+  - name: sky (sky.seungjin.net)
+  url: https://sky.seungjin.net
   - name: uptime (uptime.seungjin.net)
     url: https://uptime.seungjin.net
 
