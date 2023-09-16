@@ -11,7 +11,7 @@ sites:
   - name: mastodon (mstd.seungjin.net)
     url: https://mstd.seungjin.net
   - name: sky (sky.seungjin.net)
-    url: https://sky.seungjin.net
+    url: https://sky.seungjin.net/health 
   - name: uptime (uptime.seungjin.net)
     url: https://uptime.seungjin.net
 
