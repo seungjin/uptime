@@ -13,7 +13,7 @@
     "time": 1588,
     "timeDay": 156,
     "timeWeek": 180,
-    "timeMonth": 267,
+    "timeMonth": 265,
     "timeYear": 1588,
     "dailyMinutesDown": {
       "2023-08-28": 95,
@@ -71,7 +71,7 @@
     "time": 1465,
     "timeDay": 179,
     "timeWeek": 164,
-    "timeMonth": 286,
+    "timeMonth": 281,
     "timeYear": 1465,
     "dailyMinutesDown": {
       "2023-08-29": 40,
@@ -121,18 +121,20 @@
     "url": "https://mstd.seungjin.net",
     "icon": "https://icons.duckduckgo.com/ip3/mstd.seungjin.net.ico",
     "slug": "mastodon-mstd-seungjin-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 764,
-    "timeDay": 752,
-    "timeWeek": 727,
-    "timeMonth": 734,
+    "timeDay": 703,
+    "timeWeek": 719,
+    "timeMonth": 733,
     "timeYear": 764,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-27": 0
+    }
   },
   {
     "name": "sky (sky.seungjin.net)",
@@ -140,11 +142,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sky.seungjin.net.ico",
     "slug": "sky-sky-seungjin-net",
     "status": "up",
-    "uptime": "97.41%",
+    "uptime": "97.42%",
     "uptimeDay": "71.60%",
     "uptimeWeek": "90.82%",
-    "uptimeMonth": "97.41%",
-    "uptimeYear": "97.41%",
+    "uptimeMonth": "97.42%",
+    "uptimeYear": "97.42%",
     "time": 1307,
     "timeDay": 2485,
     "timeWeek": 1999,
@@ -171,7 +173,7 @@
     "time": 157,
     "timeDay": 130,
     "timeWeek": 157,
-    "timeMonth": 154,
+    "timeMonth": 153,
     "timeYear": 157,
     "dailyMinutesDown": {}
   }
