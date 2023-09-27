@@ -123,9 +123,9 @@
     "slug": "mastodon-mstd-seungjin-net",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 764,
     "timeDay": 674,
@@ -133,7 +133,7 @@
     "timeMonth": 731,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2023-09-27": 0
+      "2023-09-27": 6
     }
   },
   {
@@ -141,17 +141,17 @@
     "url": "https://sky.seungjin.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/sky.seungjin.net.ico",
     "slug": "sky-sky-seungjin-net",
-    "status": "up",
+    "status": "down",
     "uptime": "97.42%",
-    "uptimeDay": "71.96%",
+    "uptimeDay": "72.31%",
     "uptimeWeek": "90.82%",
     "uptimeMonth": "97.42%",
     "uptimeYear": "97.42%",
-    "time": 1307,
-    "timeDay": 2531,
-    "timeWeek": 1999,
-    "timeMonth": 1307,
-    "timeYear": 1307,
+    "time": 1303,
+    "timeDay": 2488,
+    "timeWeek": 1985,
+    "timeMonth": 1303,
+    "timeYear": 1303,
     "dailyMinutesDown": {
       "2023-09-27": 42,
       "2023-09-26": 405,
