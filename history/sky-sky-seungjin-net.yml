@@ -1,7 +1,7 @@
 url: https://sky.seungjin.net/health
-status: up
-code: 200
-responseTime: 6351
-lastUpdated: 2023-09-29T16:06:52.534Z
+status: down
+code: 500
+responseTime: 324
+lastUpdated: 2023-09-29T16:57:05.813Z
 startTime: 2023-09-01T07:37:08.888Z
 generator: Upptime <https://github.com/upptime/upptime>
