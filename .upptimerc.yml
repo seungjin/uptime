@@ -14,7 +14,7 @@ sites:
     url: https://sky.seungjin.net/health 
   - name: uptime (uptime.seungjin.net)
     url: https://uptime.seungjin.net
-  - name: Media-mstd (Cloudflare CDN, S3)
+  - name: media-mstd (Cloudflare CDN, S3)
     url: https://media-mstd.seungjin.net/accounts/avatars/109/737/937/659/013/254/original/626c9187e341632b.jpg
 	  
 assignees: 
