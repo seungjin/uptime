@@ -163,17 +163,17 @@
     "url": "https://sky.seungjin.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/sky.seungjin.net.ico",
     "slug": "sky-sky-seungjin-net",
-    "status": "up",
-    "uptime": "96.76%",
-    "uptimeDay": "45.82%",
-    "uptimeWeek": "87.92%",
+    "status": "down",
+    "uptime": "96.78%",
+    "uptimeDay": "49.05%",
+    "uptimeWeek": "87.91%",
     "uptimeMonth": "97.16%",
-    "uptimeYear": "96.76%",
-    "time": 1763,
-    "timeDay": 3978,
-    "timeWeek": 3032,
-    "timeMonth": 2175,
-    "timeYear": 1763,
+    "uptimeYear": "96.78%",
+    "time": 1760,
+    "timeDay": 3857,
+    "timeWeek": 2986,
+    "timeMonth": 2164,
+    "timeYear": 1760,
     "dailyMinutesDown": {
       "2023-11-13": 603,
       "2023-11-12": 615,
@@ -183,7 +183,7 @@
       "2023-09-28": 280,
       "2023-09-27": 410,
       "2023-09-26": 405,
-      "2023-09-25": 415
+      "2023-09-25": 397
     }
   },
   {
