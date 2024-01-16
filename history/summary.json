@@ -132,7 +132,7 @@
     "time": 755,
     "timeDay": 794,
     "timeWeek": 745,
-    "timeMonth": 734,
+    "timeMonth": 735,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2023-12-26": 180,
@@ -155,7 +155,7 @@
     "time": 142,
     "timeDay": 158,
     "timeWeek": 137,
-    "timeMonth": 151,
+    "timeMonth": 150,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -165,18 +165,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sky.seungjin.net.ico",
     "slug": "sky-sky-seungjin-net",
     "status": "up",
-    "uptime": "98.28%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.28%",
+    "uptime": "98.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.27%",
     "time": 1952,
     "timeDay": 4672,
     "timeWeek": 3552,
-    "timeMonth": 2111,
+    "timeMonth": 2122,
     "timeYear": 1952,
     "dailyMinutesDown": {
-      "2024-01-16": 5,
       "2023-11-14": 82,
       "2023-11-13": 655,
       "2023-11-12": 615,
@@ -186,7 +185,7 @@
       "2023-09-28": 280,
       "2023-09-27": 410,
       "2023-09-26": 405,
-      "2023-09-25": 253
+      "2023-09-25": 275
     }
   },
   {
@@ -203,7 +202,7 @@
     "time": 141,
     "timeDay": 113,
     "timeWeek": 101,
-    "timeMonth": 106,
+    "timeMonth": 107,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2023-10-05": 42
