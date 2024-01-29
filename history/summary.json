@@ -146,11 +146,11 @@
     "url": "https://media-mstd.seungjin.net/accounts/avatars/109/737/937/659/013/254/original/626c9187e341632b.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/media-mstd.seungjin.net.ico",
     "slug": "media-mstd-cloudflare-cdn-s3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "89.45%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "89.83%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.91%",
     "time": 277,
     "timeDay": 3540,
@@ -158,7 +158,7 @@
     "timeMonth": 603,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-01-29": 152
+      "2024-01-29": 146
     }
   },
   {
