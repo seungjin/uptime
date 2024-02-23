@@ -168,18 +168,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sky.seungjin.net.ico",
     "slug": "sky-sky-seungjin-net",
     "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "98.64%",
     "time": 1995,
     "timeDay": 3854,
     "timeWeek": 2389,
     "timeMonth": 2015,
     "timeYear": 1995,
     "dailyMinutesDown": {
-      "2024-02-23": 9,
       "2024-01-31": 27,
       "2023-11-14": 82,
       "2023-11-13": 655,
@@ -190,7 +189,7 @@
       "2023-09-28": 280,
       "2023-09-27": 410,
       "2023-09-26": 405,
-      "2023-09-25": 226
+      "2023-09-25": 253
     }
   },
   {
