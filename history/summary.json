@@ -68,7 +68,7 @@
     "uptimeYear": "99.50%",
     "time": 947,
     "timeDay": 61,
-    "timeWeek": 117,
+    "timeWeek": 107,
     "timeMonth": 188,
     "timeYear": 940,
     "dailyMinutesDown": {
@@ -125,7 +125,7 @@
     "uptimeYear": "99.93%",
     "time": 753,
     "timeDay": 821,
-    "timeWeek": 766,
+    "timeWeek": 764,
     "timeMonth": 761,
     "timeYear": 754,
     "dailyMinutesDown": {
@@ -142,18 +142,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/media-mstd.seungjin.net.ico",
     "slug": "media-mstd-cloudflare-cdn-s3",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.92%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 258,
     "timeDay": 136,
-    "timeWeek": 116,
+    "timeWeek": 119,
     "timeMonth": 153,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2024-03-25": 0,
+      "2024-03-25": 36,
       "2024-01-29": 146
     }
   },
@@ -170,7 +170,7 @@
     "uptimeYear": "98.84%",
     "time": 1971,
     "timeDay": 4382,
-    "timeWeek": 2016,
+    "timeWeek": 1740,
     "timeMonth": 1851,
     "timeYear": 1971,
     "dailyMinutesDown": {
@@ -200,7 +200,7 @@
     "uptimeYear": "99.99%",
     "time": 137,
     "timeDay": 84,
-    "timeWeek": 252,
+    "timeWeek": 258,
     "timeMonth": 143,
     "timeYear": 136,
     "dailyMinutesDown": {
