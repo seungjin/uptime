@@ -16,7 +16,10 @@ sites:
     url: https://sky.seungjin.net/health 
   - name: uptime (uptime.seungjin.net)
     url: https://uptime.seungjin.net
-	  
+  - name: kite (kite.labs.seungjin.net)
+    url: https://kite.labs.seungjin.net
+  
+
 assignees: 
   - seungjin
 
