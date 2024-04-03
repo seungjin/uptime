@@ -63,7 +63,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 927,
     "timeDay": 93,
     "timeWeek": 105,
@@ -159,11 +159,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sky.seungjin.net.ico",
     "slug": "sky-sky-seungjin-net",
     "status": "up",
-    "uptime": "98.89%",
+    "uptime": "98.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.89%",
+    "uptimeYear": "98.90%",
     "time": 1949,
     "timeDay": 6372,
     "timeWeek": 1565,
@@ -210,18 +210,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kite.labs.seungjin.net.ico",
     "slug": "kite-kite-labs-seungjin-net",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "97.88%",
+    "uptimeDay": "91.28%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "97.88%",
     "time": 508,
     "timeDay": 528,
     "timeWeek": 508,
     "timeMonth": 508,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2024-04-03": 1
+      "2024-04-03": 126
     }
   }
 ]
