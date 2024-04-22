@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 979,
-    "timeDay": 92,
-    "timeWeek": 103,
-    "timeMonth": 103,
+    "timeDay": 100,
+    "timeWeek": 101,
+    "timeMonth": 102,
     "timeYear": 963,
     "dailyMinutesDown": {
       "2023-10-05": 42,
@@ -44,8 +44,7 @@
       "2023-05-07": 87,
       "2023-05-05": 51,
       "2023-04-26": 16,
-      "2023-04-25": 15,
-      "2023-04-23": 76
+      "2023-04-25": 15
     }
   },
   {
@@ -60,10 +59,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 889,
-    "timeDay": 105,
-    "timeWeek": 117,
+    "timeDay": 93,
+    "timeWeek": 118,
     "timeMonth": 107,
-    "timeYear": 833,
+    "timeYear": 832,
     "dailyMinutesDown": {
       "2023-10-05": 42,
       "2023-08-29": 40,
@@ -94,8 +93,7 @@
       "2023-05-20": 21,
       "2023-05-07": 86,
       "2023-05-05": 50,
-      "2023-04-26": 16,
-      "2023-04-23": 75
+      "2023-04-26": 16
     }
   },
   {
@@ -110,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 753,
-    "timeDay": 743,
-    "timeWeek": 732,
-    "timeMonth": 738,
+    "timeDay": 685,
+    "timeWeek": 726,
+    "timeMonth": 735,
     "timeYear": 753,
     "dailyMinutesDown": {
       "2024-02-02": 26,
@@ -134,9 +132,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.91%",
     "time": 283,
-    "timeDay": 235,
-    "timeWeek": 846,
-    "timeMonth": 404,
+    "timeDay": 240,
+    "timeWeek": 845,
+    "timeMonth": 407,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2024-03-25": 102,
@@ -154,11 +152,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.97%",
-    "time": 1905,
-    "timeDay": 1212,
-    "timeWeek": 1003,
-    "timeMonth": 1387,
-    "timeYear": 1905,
+    "time": 1904,
+    "timeDay": 1218,
+    "timeWeek": 923,
+    "timeMonth": 1285,
+    "timeYear": 1904,
     "dailyMinutesDown": {
       "2024-04-12": 61,
       "2024-03-29": 21,
@@ -187,10 +185,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 133,
-    "timeDay": 87,
-    "timeWeek": 99,
-    "timeMonth": 95,
-    "timeYear": 132,
+    "timeDay": 96,
+    "timeWeek": 100,
+    "timeMonth": 96,
+    "timeYear": 131,
     "dailyMinutesDown": {
       "2023-10-05": 42
     }
@@ -201,18 +199,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kite.labs.seungjin.net.ico",
     "slug": "kite-kite-labs-seungjin-net",
     "status": "down",
-    "uptime": "17.84%",
+    "uptime": "17.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.84%",
-    "uptimeYear": "17.84%",
+    "uptimeMonth": "17.61%",
+    "uptimeYear": "17.61%",
     "time": 509,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 509,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2024-04-21": 1133,
+      "2024-04-22": 102,
+      "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
