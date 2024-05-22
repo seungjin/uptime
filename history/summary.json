@@ -118,9 +118,9 @@
     "slug": "media-mstd-cloudflare-cdn-s3",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "87.32%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "88.23%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.87%",
     "time": 268,
     "timeDay": 160,
@@ -128,7 +128,7 @@
     "timeMonth": 179,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-05-22": 183,
+      "2024-05-22": 170,
       "2024-03-25": 102,
       "2024-01-29": 146
     }
@@ -204,7 +204,7 @@
     "timeMonth": 0,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2024-05-22": 371,
+      "2024-05-22": 413,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
