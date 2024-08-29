@@ -12,6 +12,8 @@ sites:
     url: https://mstd.seungjin.net
   - name: uptime (uptime.seungjin.net)
     url: https://uptime.seungjin.net
+  - name: prefer.social (seungjin.prefer.social)
+    url: https://seungjin.prefer.social
 
 assignees: 
   - seungjin
