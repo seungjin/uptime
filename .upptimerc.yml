@@ -11,11 +11,15 @@ sites:
     url: https://www.seungjin.net
   - name: mastodon (mstd.seungjin.net)
     url: https://mstd.seungjin.net
+  - name: media-mstd (Cloudflare CDN, S3)
+    url: https://media-mstd.seungjin.net/accounts/avatars/109/737/937/659/013/254/original/626c9187e341632b.jpg
+  - name: sky (sky.seungjin.net)
+    url: https://sky.seungjin.net/health 
   - name: uptime (uptime.seungjin.net)
     url: https://uptime.seungjin.net
   - name: prefer.social (seungjin.prefer.social)
     url: https://seungjin.prefer.social
-
+    
 assignees: 
   - seungjin
 
@@ -35,10 +39,10 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
-  graphs: "50 * * * *"
-  responseTime: "50 * * * *"
-  staticSite: "50 * * * *"
-  summary: "50 * * * *"
+  graphs: "50 */6 * * *"
+  responseTime: "50 */6 * * *"
+  staticSite: "50 */6 * * *"
+  summary: "50 */6 * * *"
   updateTemplate: "0 0 * * *"
   updates: "15 0 * * *"
   uptime: "*/5 * * * *"
