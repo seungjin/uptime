@@ -101,8 +101,8 @@
     "time": 1974,
     "timeDay": 416,
     "timeWeek": 2278,
-    "timeMonth": 3431,
-    "timeYear": 1983,
+    "timeMonth": 3455,
+    "timeYear": 1984,
     "dailyMinutesDown": {
       "2024-09-01": 46,
       "2024-08-23": 22,
@@ -152,18 +152,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/seungjin.prefer.social.ico",
     "slug": "prefer-social-seungjin-prefer-social",
     "status": "down",
-    "uptime": "98.26%",
-    "uptimeDay": "92.23%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.26%",
+    "uptime": "96.87%",
+    "uptimeDay": "85.77%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "96.87%",
     "time": 615,
     "timeDay": 334,
     "timeWeek": 615,
     "timeMonth": 615,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2024-09-03": 111
+      "2024-09-03": 205
     }
   }
 ]
