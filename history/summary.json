@@ -13,7 +13,7 @@
     "time": 148,
     "timeDay": 128,
     "timeWeek": 140,
-    "timeMonth": 135,
+    "timeMonth": 134,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2023-10-05": 42
@@ -33,7 +33,7 @@
     "time": 155,
     "timeDay": 138,
     "timeWeek": 136,
-    "timeMonth": 145,
+    "timeMonth": 144,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2023-10-05": 42
@@ -53,7 +53,7 @@
     "time": 763,
     "timeDay": 776,
     "timeWeek": 758,
-    "timeMonth": 750,
+    "timeMonth": 751,
     "timeYear": 764,
     "dailyMinutesDown": {
       "2024-09-14": 16,
@@ -78,7 +78,7 @@
     "time": 227,
     "timeDay": 165,
     "timeWeek": 131,
-    "timeMonth": 143,
+    "timeMonth": 142,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2024-07-07": 33,
@@ -93,18 +93,19 @@
     "url": "https://sky.seungjin.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/sky.seungjin.net.ico",
     "slug": "sky-sky-seungjin-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.31%",
-    "time": 1928,
-    "timeDay": 1748,
-    "timeWeek": 601,
-    "timeMonth": 1577,
-    "timeYear": 1998,
+    "uptimeYear": "99.32%",
+    "time": 1927,
+    "timeDay": 1452,
+    "timeWeek": 590,
+    "timeMonth": 1536,
+    "timeYear": 1997,
     "dailyMinutesDown": {
+      "2024-09-19": 0,
       "2024-09-13": 18,
       "2024-09-01": 46,
       "2024-08-23": 22,
@@ -125,7 +126,7 @@
       "2023-09-28": 280,
       "2023-09-27": 410,
       "2023-09-26": 405,
-      "2023-09-25": 30
+      "2023-09-25": 14
     }
   },
   {
@@ -142,7 +143,7 @@
     "time": 118,
     "timeDay": 103,
     "timeWeek": 132,
-    "timeMonth": 135,
+    "timeMonth": 134,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2023-10-05": 42
