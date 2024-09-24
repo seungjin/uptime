@@ -32,8 +32,8 @@
     "uptimeYear": "99.99%",
     "time": 147,
     "timeDay": 127,
-    "timeWeek": 144,
-    "timeMonth": 147,
+    "timeWeek": 145,
+    "timeMonth": 145,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2023-10-05": 42
@@ -52,7 +52,7 @@
     "uptimeYear": "99.93%",
     "time": 763,
     "timeDay": 690,
-    "timeWeek": 773,
+    "timeWeek": 774,
     "timeMonth": 755,
     "timeYear": 765,
     "dailyMinutesDown": {
@@ -77,8 +77,8 @@
     "uptimeYear": "99.89%",
     "time": 226,
     "timeDay": 106,
-    "timeWeek": 127,
-    "timeMonth": 138,
+    "timeWeek": 128,
+    "timeMonth": 137,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2024-07-07": 33,
@@ -95,17 +95,16 @@
     "slug": "sky-sky-seungjin-net",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.31%",
     "time": 1918,
     "timeDay": 1524,
-    "timeWeek": 940,
-    "timeMonth": 1180,
-    "timeYear": 1998,
+    "timeWeek": 961,
+    "timeMonth": 1185,
+    "timeYear": 1999,
     "dailyMinutesDown": {
-      "2024-09-23": 6,
       "2024-09-13": 18,
       "2024-09-01": 46,
       "2024-08-23": 22,
@@ -125,8 +124,7 @@
       "2023-09-29": 453,
       "2023-09-28": 280,
       "2023-09-27": 410,
-      "2023-09-26": 405,
-      "2023-09-25": 14
+      "2023-09-26": 405
     }
   },
   {
@@ -142,9 +140,9 @@
     "uptimeYear": "99.99%",
     "time": 119,
     "timeDay": 136,
-    "timeWeek": 125,
+    "timeWeek": 126,
     "timeMonth": 136,
-    "timeYear": 115,
+    "timeYear": 116,
     "dailyMinutesDown": {
       "2023-10-05": 42
     }
@@ -155,14 +153,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/seungjin.prefer.social.ico",
     "slug": "prefer-social-seungjin-prefer-social",
     "status": "up",
-    "uptime": "92.09%",
+    "uptime": "92.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.09%",
-    "uptimeYear": "92.09%",
+    "uptimeMonth": "92.17%",
+    "uptimeYear": "92.17%",
     "time": 422,
     "timeDay": 200,
-    "timeWeek": 280,
+    "timeWeek": 279,
     "timeMonth": 422,
     "timeYear": 422,
     "dailyMinutesDown": {
