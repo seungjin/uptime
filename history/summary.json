@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 135,
-    "timeDay": 114,
-    "timeWeek": 132,
-    "timeMonth": 136,
+    "timeDay": 101,
+    "timeWeek": 133,
+    "timeMonth": 137,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2023-10-05": 42
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 146,
-    "timeDay": 116,
+    "time": 145,
+    "timeDay": 91,
     "timeWeek": 142,
-    "timeMonth": 145,
+    "timeMonth": 144,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2023-10-05": 42
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 763,
-    "timeDay": 789,
-    "timeWeek": 776,
-    "timeMonth": 758,
+    "timeDay": 842,
+    "timeWeek": 775,
+    "timeMonth": 757,
     "timeYear": 765,
     "dailyMinutesDown": {
       "2024-09-14": 16,
@@ -76,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 226,
-    "timeDay": 132,
-    "timeWeek": 128,
-    "timeMonth": 135,
+    "timeDay": 133,
+    "timeWeek": 136,
+    "timeMonth": 136,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2024-07-07": 33,
@@ -100,10 +100,10 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.31%",
     "time": 1918,
-    "timeDay": 1514,
-    "timeWeek": 1065,
-    "timeMonth": 1141,
-    "timeYear": 2002,
+    "timeDay": 2145,
+    "timeWeek": 1201,
+    "timeMonth": 1167,
+    "timeYear": 2003,
     "dailyMinutesDown": {
       "2024-09-13": 18,
       "2024-09-01": 46,
@@ -123,8 +123,7 @@
       "2023-09-30": 224,
       "2023-09-29": 453,
       "2023-09-28": 280,
-      "2023-09-27": 410,
-      "2023-09-26": 405
+      "2023-09-27": 410
     }
   },
   {
@@ -139,10 +138,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 119,
-    "timeDay": 115,
-    "timeWeek": 125,
+    "timeDay": 113,
+    "timeWeek": 127,
     "timeMonth": 134,
-    "timeYear": 116,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2023-10-05": 42
     }
@@ -153,16 +152,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/seungjin.prefer.social.ico",
     "slug": "prefer-social-seungjin-prefer-social",
     "status": "up",
-    "uptime": "92.31%",
+    "uptime": "92.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.31%",
-    "uptimeYear": "92.31%",
-    "time": 421,
-    "timeDay": 335,
-    "timeWeek": 278,
-    "timeMonth": 421,
-    "timeYear": 421,
+    "uptimeMonth": "92.47%",
+    "uptimeYear": "92.47%",
+    "time": 422,
+    "timeDay": 427,
+    "timeWeek": 295,
+    "timeMonth": 422,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2024-09-05": 602,
       "2024-09-04": 1364,
