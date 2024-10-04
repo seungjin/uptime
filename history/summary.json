@@ -15,9 +15,7 @@
     "timeWeek": 123,
     "timeMonth": 136,
     "timeYear": 118,
-    "dailyMinutesDown": {
-      "2023-10-05": 42
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.seungjin.net",
@@ -35,9 +33,7 @@
     "timeWeek": 141,
     "timeMonth": 149,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2023-10-05": 42
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mastodon (mstd.seungjin.net)",
@@ -58,8 +54,7 @@
     "dailyMinutesDown": {
       "2024-09-14": 16,
       "2024-02-02": 26,
-      "2023-12-26": 180,
-      "2023-10-05": 30
+      "2023-12-26": 180
     }
   },
   {
@@ -100,8 +95,8 @@
     "time": 2002,
     "timeDay": 1875,
     "timeWeek": 2016,
-    "timeMonth": 1212,
-    "timeYear": 1989,
+    "timeMonth": 1214,
+    "timeYear": 1990,
     "dailyMinutesDown": {
       "2024-09-13": 18,
       "2024-09-01": 46,
@@ -134,11 +129,9 @@
     "time": 118,
     "timeDay": 111,
     "timeWeek": 119,
-    "timeMonth": 134,
+    "timeMonth": 135,
     "timeYear": 114,
-    "dailyMinutesDown": {
-      "2023-10-05": 42
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "prefer.social (seungjin.prefer.social)",
@@ -146,11 +139,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/seungjin.prefer.social.ico",
     "slug": "prefer-social-seungjin-prefer-social",
     "status": "up",
-    "uptime": "94.23%",
+    "uptime": "94.26%",
     "uptimeDay": "96.54%",
     "uptimeWeek": "99.26%",
-    "uptimeMonth": "95.04%",
-    "uptimeYear": "94.23%",
+    "uptimeMonth": "95.64%",
+    "uptimeYear": "94.26%",
     "time": 426,
     "timeDay": 1059,
     "timeWeek": 486,
