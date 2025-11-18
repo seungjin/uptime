@@ -64,19 +64,19 @@
     "url": "https://media-mstd.seungjin.net/accounts/avatars/109/737/937/659/013/254/original/626c9187e341632b.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/media-mstd.seungjin.net.ico",
     "slug": "media-mstd-cloudflare-cdn-s3",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "90.77%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "89.46%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
     "time": 160,
-    "timeDay": 119,
-    "timeWeek": 212,
+    "timeDay": 120,
+    "timeWeek": 210,
     "timeMonth": 182,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2025-11-18": 133
+      "2025-11-18": 152
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeMonth": 282,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2025-11-18": 900,
+      "2025-11-18": 919,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -374,8 +374,8 @@
     "status": "down",
     "uptime": "61.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "21.27%",
-    "uptimeMonth": "81.88%",
+    "uptimeWeek": "21.07%",
+    "uptimeMonth": "81.84%",
     "uptimeYear": "57.86%",
     "time": 393,
     "timeDay": 0,
@@ -383,7 +383,7 @@
     "timeMonth": 392,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2025-11-18": 900,
+      "2025-11-18": 920,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
