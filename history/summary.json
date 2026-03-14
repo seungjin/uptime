@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 203,
-    "timeWeek": 159,
-    "timeMonth": 161,
+    "timeDay": 153,
+    "timeWeek": 154,
+    "timeMonth": 162,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 211,
-    "timeWeek": 164,
-    "timeMonth": 168,
+    "timeDay": 220,
+    "timeWeek": 163,
+    "timeMonth": 169,
     "timeYear": 167,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 857,
-    "timeDay": 689,
-    "timeWeek": 755,
-    "timeMonth": 793,
+    "timeDay": 806,
+    "timeWeek": 763,
+    "timeMonth": 792,
     "timeYear": 863,
     "dailyMinutesDown": {
       "2026-01-20": 713,
@@ -73,8 +73,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.83%",
     "time": 194,
-    "timeDay": 246,
-    "timeWeek": 282,
+    "timeDay": 282,
+    "timeWeek": 287,
     "timeMonth": 244,
     "timeYear": 195,
     "dailyMinutesDown": {
@@ -94,18 +94,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sky.seungjin.net.ico",
     "slug": "sky-sky-seungjin-net",
     "status": "down",
-    "uptime": "62.29%",
+    "uptime": "62.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "5.27%",
+    "uptimeYear": "5.07%",
     "time": 467,
-    "timeDay": 303,
-    "timeWeek": 297,
-    "timeMonth": 285,
-    "timeYear": 361,
+    "timeDay": 325,
+    "timeWeek": 295,
+    "timeMonth": 286,
+    "timeYear": 359,
     "dailyMinutesDown": {
-      "2026-03-13": 1161,
+      "2026-03-14": 814,
+      "2026-03-13": 1440,
       "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
@@ -452,8 +453,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1205,
       "2025-03-27": 51,
-      "2025-03-17": 19,
-      "2025-03-14": 58
+      "2025-03-17": 19
     }
   },
   {
@@ -468,8 +468,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 163,
-    "timeWeek": 166,
+    "timeDay": 131,
+    "timeWeek": 153,
     "timeMonth": 154,
     "timeYear": 149,
     "dailyMinutesDown": {}
@@ -480,15 +480,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/seungjin.prefer.social.ico",
     "slug": "prefer-social-seungjin-prefer-social",
     "status": "up",
-    "uptime": "68.76%",
+    "uptime": "68.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.14%",
+    "uptimeYear": "88.34%",
     "time": 403,
-    "timeDay": 373,
-    "timeWeek": 422,
-    "timeMonth": 448,
+    "timeDay": 401,
+    "timeWeek": 432,
+    "timeMonth": 445,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2026-02-08": 53,
@@ -542,8 +542,7 @@
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
-      "2025-03-15": 1440,
-      "2025-03-14": 1440
+      "2025-03-15": 1440
     }
   }
 ]
