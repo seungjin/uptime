@@ -22,18 +22,20 @@
     "url": "https://www.seungjin.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.seungjin.net.ico",
     "slug": "www-seungjin-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 179,
-    "timeWeek": 179,
+    "timeDay": 159,
+    "timeWeek": 177,
     "timeMonth": 164,
     "timeYear": 168,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-31": 7
+    }
   },
   {
     "name": "mastodon (mstd.seungjin.net)",
@@ -105,7 +107,7 @@
     "timeMonth": 279,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2026-03-31": 223,
+      "2026-03-31": 231,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
